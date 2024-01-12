@@ -8,16 +8,21 @@ img {
 }
 header h1 {
     color: gold;
+    font-size: 35px;
 }
 
-section h2 {
+h2 {
     color: gold;
+    font-size: 25px;
 }
 
 dl {
     margin-bottom: 20px;
+    font-size: 20px;
 }
 
 dt {
     font-weight: bold;
+    font-size: 25px;
+    color: gold;
 }
